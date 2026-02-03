@@ -2,7 +2,7 @@
 
 A modern, professional web-based Student Management System built with Flask and Python.
 
-**Created by: Yogeeta Mishra**
+**Created by: Yogeeta Mishra & Praneet Bose**
 
 ## ✨ Features
 
